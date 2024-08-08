@@ -443,3 +443,7 @@ a, a:hover{
 #testimonials .testimonials-content .testimonial-profile span.name{
     font-weight: 700;
 }
+
+.github {
+    color: red;
+}
